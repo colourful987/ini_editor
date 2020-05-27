@@ -53,7 +53,7 @@ python3.7 setup.py sdist
 
 pip3.7 install dist/ini_editor-1.0.0.tar.gz
 
-# now you can use resign-brush anywhere
+# now you can use ini_editor anywhere
 ini_editor -h
 ```
 
